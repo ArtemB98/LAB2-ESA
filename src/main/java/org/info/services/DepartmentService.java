@@ -1,6 +1,6 @@
-package org.addresses.services;
+package org.info.services;
 
-import org.addresses.models.Department;
+import org.info.models.Department;
 
 import java.util.List;
 

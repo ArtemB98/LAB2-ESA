@@ -1,6 +1,6 @@
-package org.addresses.repositories;
+package org.info.repositories;
 
-import org.addresses.models.Employee;
+import org.info.models.Employee;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

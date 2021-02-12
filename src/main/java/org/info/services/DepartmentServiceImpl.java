@@ -1,7 +1,7 @@
-package org.addresses.services;
+package org.info.services;
 
-import org.addresses.models.Department;
-import org.addresses.repositories.DepartmentRepository;
+import org.info.models.Department;
+import org.info.repositories.DepartmentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

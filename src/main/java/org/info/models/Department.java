@@ -1,9 +1,7 @@
-package org.addresses.models;
+package org.info.models;
 
 import javax.persistence.*;
-import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
 
 @Entity
 @Table(name = "department", schema = "public")

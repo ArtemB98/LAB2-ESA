@@ -1,7 +1,7 @@
-package org.addresses.services;
+package org.info.services;
 
-import org.addresses.models.Employee;
-import org.addresses.repositories.EmployeeRepository;
+import org.info.models.Employee;
+import org.info.repositories.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

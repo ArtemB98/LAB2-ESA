@@ -1,4 +1,4 @@
-package org.addresses.models;
+package org.info.models;
 
 import javax.persistence.*;
 
